@@ -1,9 +1,9 @@
-#PlatziVideo
+## PlatziVideo
 
 PlatziVideo es la plataforma que te permite ver videos on demand y además
 te enseña JavaScript de cero a rockstar.
 
-#Instalación
+### Instalación
 
 Puedes instalarlo desde npm
 
@@ -13,17 +13,17 @@ O también clonarlo en el repositorio
 
     $ git clone url
 
-#Como se usa
+### Como se usa
 
     import PlatziVideo
 
     video =  PlatziVideo ()
 
-#Como contribuir
+### Como contribuir
 
 Puedes crear un pull request al proyecto
 
-#Licencia
+### Licencia
 
 MIT
 
